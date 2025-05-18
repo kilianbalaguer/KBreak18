@@ -6,6 +6,8 @@ A rootless semi-untethered jailbreak for iOS 18.0 - 18.3 maybe til 18.5 (arm64e)
 
 For iOS 15 til 16 we recomand using Dopamine by opa334.
 
+Uses ElleKit for Tweak injection.
+
 Please note that all issues related to version support will be deleted without response.
 
 Official website / download: 
