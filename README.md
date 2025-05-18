@@ -2,7 +2,7 @@
 
 # KBreak18
 
-A rootless semi-untethered jailbreak for iOS 18.0 - 18.5 (arm64e) and iOS 15.0 - 18.5 (arm64). More details will follow here soon.
+A rootless semi-untethered jailbreak for iOS 15.0 - 18.3 (arm64e) and iOS 15.0 - 18.5 (arm64). More details will follow here soon.
 
 Please note that all issues related to version support will be deleted without response.
 
