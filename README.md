@@ -2,12 +2,55 @@
 
 # KBreak18
 
-A rootless semi-untethered jailbreak for iOS 18.0 - 18.3 maybe til 18.5 (arm64e) and iOS 18.0 - 18.5 (arm64). More details will follow here soon.
+**KBreak18** is a **rootless semi-untethered jailbreak** for:
 
-For iOS 15 til 16 we recomand using Dopamine by opa334.
+- **iOS 18.0 – 18.3** *(possibly up to 18.5)* on `arm64e` devices  
+- **iOS 18.0 – 18.5** on `arm64` devices  
 
-Uses ElleKit for Tweak injection.
+More technical details and release builds will follow soon.
 
-Please note that all issues related to version support will be deleted without response.
+---
 
-Official website / download: 
+### ✅ Recommended for older iOS versions:
+For **iOS 15 – 16**, we recommend using **[Dopamine](https://github.com/opa334/Dopamine)** by opa334.
+
+---
+
+### 🔧 Tweak Injection
+KBreak18 uses **[ElleKit](https://github.com/opa334/ellekit)** for modern, PAC-safe tweak injection.
+
+---
+
+### ⚠️ Issues
+Please note:  
+❗ All GitHub issues related to version support (unsupported versions, betas, etc.) will be **closed without response**.
+ And the jailbreak is not finished yet, this means that it wont even jailbreak yet, so **Dont Try to Jailbreak or use this tool**
+---
+
+## ✅ Supported Devices & Versions
+
+### 🔒 `arm64e` (PAC enabled)
+
+| Device                      | Max Supported Version |
+|-----------------------------|------------------------|
+| iPhone XS / XS Max / XR     | iOS 18.3 (maybe 18.5)  |
+| iPhone 11 / 11 Pro / Pro Max| iOS 18.3 (maybe 18.5)  |
+| iPhone SE (2nd & 3rd Gen)   | iOS 18.3 (maybe 18.5)  |
+| **iPhone 13**               | 🚧 *To be tested - iOS 18.5* |
+| iPhone 14 / 15 Series       | iOS 18.3 (maybe 18.5)   |
+
+### 🔓 `arm64` (no PAC)
+
+| Device                 | Max Supported Version |
+|------------------------|------------------------|
+| iPhone 6s / 6s Plus     | iOS 18.5               |
+| iPhone 7 / 7 Plus       | iOS 18.5               |
+| iPhone 8 / 8 Plus       | iOS 18.5               |
+| iPhone X               | iOS 18.5               |
+| iPhone SE (1st Gen)     | iOS 18.5               |
+
+---
+
+## 🌐 Official Website / Download
+
+Coming soon.
