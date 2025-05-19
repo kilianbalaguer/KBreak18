@@ -5,7 +5,6 @@
 **KBreak18** is a **rootless semi-untethered jailbreak** for:
 
 - **iOS 18.0 – 18.3** *(possibly up to 18.5)* on `arm64e` devices  
-- **iOS 18.0 – 18.5** on `arm64` devices  
 
 More technical details and release builds will follow soon.
 
@@ -38,16 +37,6 @@ Please note:
 | iPhone SE (2nd & 3rd Gen)   | iOS 18.3 (maybe 18.5)  |
 | **iPhone 13**               | 🚧 *To be tested - iOS 18.5* |
 | iPhone 14 / 15 Series       | iOS 18.3 (maybe 18.5)   |
-
-### 🔓 `arm64` (no PAC)
-
-| Device                 | Max Supported Version |
-|------------------------|------------------------|
-| iPhone 6s / 6s Plus     | iOS 18.5               |
-| iPhone 7 / 7 Plus       | iOS 18.5               |
-| iPhone 8 / 8 Plus       | iOS 18.5               |
-| iPhone X               | iOS 18.5               |
-| iPhone SE (1st Gen)     | iOS 18.5               |
 
 ---
 
